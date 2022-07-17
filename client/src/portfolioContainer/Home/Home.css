@@ -1,0 +1,12 @@
+.home-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+    min-height: 870px;
+   background-image: url('../../bg.jpg');
+   border-end-start-radius: 25%;
+   border-start-end-radius: 25%;
+   
+
+}
