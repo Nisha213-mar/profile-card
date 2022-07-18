@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/profile-card/static/css/main.3a6216fa.css",
+    "main.js": "/profile-card/static/js/main.8383523b.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/profile-card/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/nisha.jpg": "/profile-card/static/media/nisha.af2650e38d001940f628.jpg",
+    "static/media/Poppins-Thin.ttf": "/profile-card/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
+    "static/media/Poppins-Regular.ttf": "/profile-card/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
+    "static/media/Poppins-Medium.ttf": "/profile-card/static/media/Poppins-Medium.9e1bb626874ed49aa343.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/profile-card/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
+    "static/media/Poppins-Bold.ttf": "/profile-card/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
+    "static/media/Poppins-ExtraBold.ttf": "/profile-card/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
+    "static/media/bg.jpg": "/profile-card/static/media/bg.d580cd375921d13ae60d.jpg",
+    "index.html": "/profile-card/index.html",
+    "main.3a6216fa.css.map": "/profile-card/static/css/main.3a6216fa.css.map",
+    "main.8383523b.js.map": "/profile-card/static/js/main.8383523b.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/profile-card/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a6216fa.css",
+    "static/js/main.8383523b.js"
+  ]
+}
